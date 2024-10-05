@@ -1,0 +1,5 @@
+Supplier;Type Raw material;Quantity Raw Material;Unit;Time to delivery (days)
+Sawing;Cutting tool;10;parts;2
+Laser;Laser gas;10;L;1
+Printer;Filament;10;m;1
+Electrical_Function_Verification;Electrical Parts;5;parts;3

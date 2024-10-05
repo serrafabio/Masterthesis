@@ -1,0 +1,11 @@
+Cases;ProductA_complete_;ProductB_complete_;ProductC_complete_;ProductD_complete_;ProductE_complete_;ProductF_complete_;ProductA_notLasered_;ProductB_notLasered_;ProductC_notLasered_;ProductD_notLasered_;ProductE_notLasered_;ProductF_notLasered_;Sawing;Laser;Printer;Electrical_Function_Verification;Montage
+1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;30;30;30;30;30;30;30;30;30;30;30;30;30;30;20;30;30
+3;10;10;10;10;10;10;0;0;0;0;0;0;10;10;5;15;10
+4;0;0;0;0;0;0;20;15;10;20;10;18;20;15;0;4;1
+5;0;2;3;7;10;2;10;2;1;0;0;0;0;0;10;0;10
+6;30;30;30;30;30;30;30;30;30;30;30;30;0;0;0;0;30
+7;0;0;0;0;0;0;0;0;0;0;0;0;30;20;20;30;0
+8;2;4;1;2;1;3;10;20;1;1;2;3;10;8;15;14;20
+9;28;24;1;1;0;30;0;0;0;10;20;30;12;5;0;0;30
+10;30;0;30;0;0;0;0;30;0;30;30;30;0;0;0;0;5

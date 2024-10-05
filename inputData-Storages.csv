@@ -1,0 +1,18 @@
+Name oƒ storage;Type of Product;Max Storage;Unit 
+Main Storage;ProductA_complete_;30;parts
+Main Storage;ProductB_complete_;30;parts
+Main Storage;ProductC_complete_;30;parts
+Main Storage;ProductD_complete_;30;parts
+Main Storage;ProductE_complete_;30;parts
+Main Storage;ProductF_complete_;30;parts
+Main Storage;ProductA_notLasered_;30;parts
+Main Storage;ProductB_notLasered_;30;parts
+Main Storage;ProductC_notLasered_;30;parts
+Main Storage;ProductD_notLasered_;30;parts
+Main Storage;ProductE_notLasered_;30;parts
+Main Storage;ProductF_notLasered_;30;parts
+Sawing Storage;Sawing;30;parts
+Laser Storage;Laser;30;L
+3D Printer Storage;Printer;30;m
+Electrical Part Storage;Electrical_Function_Verification;30;parts
+Montage Storages;Montage;30;parts
